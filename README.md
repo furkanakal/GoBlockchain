@@ -1,1 +1,1 @@
-# MyOwnBlockchain
+# GoBlockchain
